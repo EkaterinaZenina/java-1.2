@@ -5,7 +5,7 @@
 На тестирование затрачено: <3>
 
 В результате тестирования выявлены следующие дефекты:
-- https://github.com/EkaterinaZenina/java1/issues/1#issue-1014534365
+- https://github.com/EkaterinaZenina/java-1.2/issues/1
 
 ## Описание процесса тестирования
 
