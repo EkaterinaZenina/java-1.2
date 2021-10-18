@@ -1,19 +1,19 @@
 # Отчёт о тестировании <Credit Card Number Validator>
  ## Краткое описание
-<03/10/2021> - <03/10/2021> было проведено дымовое тестирование приложения <Credit Card Number Validator>.
+03/10/2021 - 03/10/2021 было проведено дымовое тестирование приложения Credit Card Number Validator.
 
-На тестирование затрачено: <3>
+На тестирование затрачено: 3
 
 В результате тестирования выявлены следующие дефекты:
-- https://github.com/EkaterinaZenina/java-1.2/issues/1
-
+- [Система принимает невалидные номера карт](https://github.com/EkaterinaZenina/java-1.2/issues/1)
+ 
 ## Описание процесса тестирования
 
   В процессе тестирования использовались следующие артефакты:
 - IntelliJ Idea
  
   В качестве тестовых данных использовались данные:
-- https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md
+- [Домашнее задание к занятию 1 "Введение в Java"](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
 
  - Ожидаемый результат: Система принимает только валидные номера карт
 
